@@ -10,4 +10,5 @@ Refer to [AAAI-2026 official site](https://aaai.org/conference/aaai/aaai-23/repr
 ## Usage
 
 Just copy and paste the content of `reproduction.tex` into your main LaTeX project of AAAI 2026. The rendered result should look like this:
+
 ![Output Preview](template.png)
